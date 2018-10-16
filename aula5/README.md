@@ -1,4 +1,4 @@
-# Aula 4 - Melhorando o código com partials
+# Aula 5 - Deploy do projeto
 
 Curso de Ruby on Rails 5 - Parte 2
 
